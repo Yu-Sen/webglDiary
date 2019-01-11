@@ -1,8 +1,6 @@
-English | [中文](./README.zh.md)
+## 简介
 
-## Introduction
+这是我学习《WebGL编程指南》的笔记和练习，不定时更新。
 
-This is my diary and some practice of reading _**WebGL GUIDE**_. Keep updating.
-
-## catalog
-- [chapter 1 - begin](https://segmentfault.com/a/1190000015889110)
+## 目录
+- [第1章——WebGL入门](https://segmentfault.com/a/1190000015889110)
